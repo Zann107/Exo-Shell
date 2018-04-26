@@ -1,0 +1,21 @@
+Exercice 1
+mkdir Jaime_le_shell
+cd Jaime_le_shell
+touch test1 test5
+md test2 test3 test4 test6
+chmod 755 test2 test3 test4 test6
+chmod 644 test1 test5
+
+Exercie 2
+
+
+
+
+mkdir \"le_shell_cest_trop_coolls\!\"
+
+Exercice 3
+
+mv test1 "le_shell_cest_trop_coolls!
+mv test5 "le_shell_cest_trop_coolls!
+cp -R test2 "le_shell_cest_trop_coolls!
+cp -R test6 "le_shell_cest_trop_coolls!
